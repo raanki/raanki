@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **c and especially the principle of threads at 42. But I am learning at the same time: HTML, CSS, Python, SQL, Java and Javascript at EFREI** 
 
-- 📫 How to reach me **ranki@student.42.fr**
+- 📫 Contact me at : **ranki@student.42.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
