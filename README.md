@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rayan</h1>
-<h3 align="center">👨‍💻🎓💻I'm a computer science student currently studying at École 42 and EFREI.</h3>
 
 - 🔭 I’m currently working on the subject of 42 [Philosopher](https://github.com/Nimon77/philosophers/blob/main/en.subject.pdf)
 
