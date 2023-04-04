@@ -21,7 +21,7 @@ In this repository, you can find all the projects that I have completed at 42 Sc
 
 ✔️ [Libft](https://github.com/raanki/libft#readme): A library of standard C functions, such as `strlen`, `memcpy`, and `isdigit`.<br>
 ✔️ [Get_Next_Line](https://github.com/raanki/get_next_line#readme): A function that reads a line from a file descriptor.<br>
-✔️ [Printf](https://github.com/raanki/printf#readme): A function that formats and prints text with conversion specifiers, such as `%s` and `%d`.<br>
+✔️ [Printf](https://github.com/raanki/ft_printf#readme): A function that formats and prints text with conversion specifiers, such as `%s` and `%d`.<br>
 ✔️ [Born2beroot](https://github.com/raanki/born2beroot#readme): Installing and configuring a minimalistic Linux distribution.<br>
 ✔️ [So_Long](https://github.com/raanki/so_long#readme): Creating a 2D game using the Minilibx library.<br>
 ✔️ [Minitalk](https://github.com/raanki/minitalk#readme): Implementing a client-server communication system using signals in Unix.<br>
