@@ -28,7 +28,6 @@ In this repository, you can find all the projects that I have completed at 42 Sc
 ✔️ [Push_Swap](https://github.com/raanki/push_swap#readme): Sorting a stack of integers using a limited set of operations.<br>
 🚧 [Philosophers](https://github.com/raanki/philosophers#readme): Solving the dining philosophers problem using threads and mutexes.<br>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
