@@ -26,7 +26,7 @@ In this repository, you can find all the projects that I have completed at 42 Sc
 ✔️ [So_Long](https://github.com/raanki/so_long#readme): Creating a 2D game using the Minilibx library.<br>
 ✔️ [Minitalk](https://github.com/raanki/minitalk#readme): Implementing a client-server communication system using signals in Unix.<br>
 ✔️ [Push_Swap](https://github.com/raanki/push_swap#readme): Sorting a stack of integers using a limited set of operations.<br>
-🚧 [Philosophers](https://github.com/raanki/philosophers#readme): Solving the dining philosophers problem using threads and mutexes.<br>
+🚧 [Philosophers](https://github.com/raanki/Philosophers): Solving the dining philosophers problem using threads and mutexes.<br>
 
 <p align="left">
 </p>
