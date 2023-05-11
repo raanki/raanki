@@ -26,9 +26,9 @@ In this repository, you can find all the projects that I have completed at 42 Sc
 ✔️ [So_Long](https://github.com/raanki/so_long#readme): Creating a 2D game using the Minilibx library.<br>
 ✔️ [Minitalk](https://github.com/raanki/minitalk#readme): Implementing a client-server communication system using signals in Unix.<br>
 ✔️ [Push_Swap](https://github.com/raanki/push_swap#readme): Sorting a stack of integers using a limited set of operations.<br>
-✔️ [Philosophers](https://github.com/raanki/Philosopher#readme): Solving the dining philosophers problem using threads and mutexes.<br>
-🚧 [Minishell](https://github.com/raanki/Minishell): Building a basic shell with support for command execution, signal handling, and various built-in commands.<br>
-🚧 [Project C++ - Part 1](https://github.com/raanki/Module_04): The C++ modules 00 to 04 at 42 are designed to teach fundamental programming concepts and techniques using C++, covering topics such as basic syntax, memory management, object-oriented programming, STL containers and algorithms, and more.<br>
+✔️ *Philosophers* (directory coming soon): Solving the dining philosophers problem using threads and mutexes.<br>
+🚧 *Minishell* (directory coming soon): Building a basic shell with support for command execution, signal handling, and various built-in commands.<br>
+🚧 *Project C++ - Part 1* (directory coming soon): The C++ modules 00 to 04 at 42 are designed to teach fundamental programming concepts and techniques using C++, covering topics such as basic syntax, memory management, object-oriented programming, STL containers and algorithms, and more.<br>
 
 <p align="left">
 </p>
