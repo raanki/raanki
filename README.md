@@ -30,6 +30,10 @@ In this repository, you can find all the projects that I have completed at 42 Sc
 🚧 *Minishell* (directory coming soon): Building a basic shell with support for command execution, signal handling, and various built-in commands.<br>
 🚧 *Project C++ - Part 1* (directory coming soon): The C++ modules 00 to 04 at 42 are designed to teach fundamental programming concepts and techniques using C++, covering topics such as basic syntax, memory management, object-oriented programming, STL containers and algorithms, and more.<br>
 
+# Personal Projet 
+
+✔️ [Pong](https://github.com/raanki/Pong/blob/main/README.md): Classic video game where players hit a ball back and forth. In this version, the second player is an AI controlling the second paddle to play against the human player.
+
 <p align="left">
 </p>
 
