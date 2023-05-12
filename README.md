@@ -15,7 +15,7 @@
 
 # 42 School Projects
 
-In this repository, you can find all the projects that I have completed at 42 School. Each project is presented with a brief description, a screenshot, and a link to my Git repository where you can find the source code and documentation.
+In this repository, you can find all the projects that I have completed at 42 School and my personal project. Each project is presented with a brief description, a screenshot, and a link to my Git repository where you can find the source code and documentation.
 
 ## Table of Contents
 
