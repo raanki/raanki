@@ -33,8 +33,8 @@ In this repository, you can find all the projects that I have completed at 42 Sc
 # Personal Projet 
 
 ✔️ [Pong](https://github.com/raanki/Pong/blob/main/README.md): Classic video game where players hit a ball back and forth. In this version, the second player is an AI controlling the second paddle to play against the human player.<br>
-✔️ [BrickBreaker](https://github.com/raanki/BrickBreaker/blob/main/README.md) : In Brick Breaker, you control a paddle to bounce a ball and break bricks. The goal is to clear all bricks from the screen.<br>
-✔️ [LunarLander](https://github.com/raanki/BrickBreaker/blob/main/README.md) : Dans Lunar Lander, vous contrôlez un atterrisseur lunaire, avec pour objectif de le faire atterrir en douceur sur la lune..<br>
+✔️ [BrickBreaker](https://github.com/raanki/Brick_Breaker) : In Brick Breaker, you control a paddle to bounce a ball and break bricks. The goal is to clear all bricks from the screen.<br>
+✔️ [LunarLander](https://github.com/raanki/Lunar_Lander/blob/main/README.md) : Dans Lunar Lander, vous contrôlez un atterrisseur lunaire, avec pour objectif de le faire atterrir en douceur sur la lune..<br>
 
 <p align="left">
 </p>
