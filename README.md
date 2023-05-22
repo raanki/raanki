@@ -32,9 +32,10 @@ In this repository, you can find all the projects that I have completed at 42 Sc
 
 # Personal Projet 
 
-✔️ [TreeShooter](https://github.com/raanki/TreeShooter#readme) : Jeu 2D où vous êtes un arbre combattant des momies, des aliens et esquivant régulièrement des météorites.<br>
+✔️ [Pygamon](https://github.com/raanki/Pygamon#readme): Un jeu d'exploration 2D où le joueur navigue dans différents environnements, entrant et sortant des maisons, à l'aide de contrôles directionnels.<br>
+✔️ [TreeShooter](https://github.com/raanki/TreeShooter#readme): Jeu 2D où vous êtes un arbre combattant des momies, des aliens et esquivant régulièrement des météorites.<br>
 ✔️ [Pong](https://github.com/raanki/Pong/blob/main/README.md): Classic video game where players hit a ball back and forth. In this version, the second player is an AI controlling the second paddle to play against the human player.<br>
-✔️ [BrickBreaker](https://github.com/raanki/Brick_Breaker) : In Brick Breaker, you control a paddle to bounce a ball and break bricks. The goal is to clear all bricks from the screen.<br>
+✔️ [BrickBreaker](https://github.com/raanki/Brick_Breaker): In Brick Breaker, you control a paddle to bounce a ball and break bricks. The goal is to clear all bricks from the screen.<br>
 ✔️ [LunarLander](https://github.com/raanki/Lunar_Lander/blob/main/README.md) : Dans Lunar Lander, vous contrôlez un atterrisseur lunaire, avec pour objectif de le faire atterrir en douceur sur la lune..<br>
 
 <p align="left">
