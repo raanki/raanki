@@ -17,8 +17,9 @@
 
 In this repository, you can find all the projects that I have completed at 42 School and my personal project. Each project is presented with a brief description, a screenshot, and a link to my Git repository where you can find the source code and documentation.
 
-## Table of Contents
+# Table of Contents
 
+## Projet 42
 ✔️ [Libft](https://github.com/raanki/libft#readme): A library of standard C functions, such as `strlen`, `memcpy`, and `isdigit`.<br>
 ✔️ [Get_Next_Line](https://github.com/raanki/get_next_line#readme): A function that reads a line from a file descriptor.<br>
 ✔️ [Printf](https://github.com/raanki/ft_printf#readme): A function that formats and prints text with conversion specifiers, such as `%s` and `%d`.<br>
