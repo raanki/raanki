@@ -39,6 +39,7 @@ In this repository, you can find all the projects that I have completed at 42 Sc
 ✔️ [BrickBreaker](https://github.com/raanki/Brick_Breaker): In Brick Breaker, you control a paddle to bounce a ball and break bricks. The goal is to clear all bricks from the screen.<br>
 ✔️ [LunarLander](https://github.com/raanki/Lunar_Lander/blob/main/README.md) : Dans Lunar Lander, vous contrôlez un atterrisseur lunaire, avec pour objectif de le faire atterrir en douceur sur la lune.<br>
 ✔️ [Timer_JS](https://github.com/raanki/Timer) : Timer A very small project I made to see how a stopwatch works in JavaScript.<br>
+✔️ [RockPaperScissors_JS](https://github.com/raanki/RockPaperScissors#readme) : A very small JavaScript project exploring the classic game mechanic with a computer.<br>
 
 <p align="left">
 </p>
