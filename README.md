@@ -41,6 +41,7 @@ In this repository, you can find all the projects that I have completed at 42 Sc
 ✔️ [Timer_JS](https://github.com/raanki/Timer) : Timer A very small project I made to see how a stopwatch works in JavaScript.<br>
 ✔️ [RockPaperScissors_JS](https://github.com/raanki/RockPaperScissors#readme) : A very small JavaScript project exploring the classic game mechanic with a computer.<br>
 ✔️ [PokeAPI](https://github.com/raanki/PokeApi#readme) : This project utilizes the PokeAPI to showcase each Pokemon's image and aims to explore the usage of an API.<br>
+✔️ [ColorPicker_ExtensionChrome](https://github.com/raanki/ColorPicker_ExtensionChrome#readme) : A simple color picker extension. Easily pick any color on the screen, view a history of picked colors, and copy or clear them with a single click.<br>
 
 <p align="left">
 </p>
