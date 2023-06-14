@@ -43,6 +43,7 @@ In this repository, you can find all the projects that I have completed at 42 Sc
 ✔️ [PokeAPI](https://github.com/raanki/PokeApi#readme) : This project utilizes the PokeAPI to showcase each Pokemon's image and aims to explore the usage of an API.<br>
 ✔️ [ColorPicker_ExtensionChrome](https://github.com/raanki/ColorPicker_ExtensionChrome#readme) : A simple color picker extension. Easily pick any color on the screen, view a history of picked colors, and copy or clear them with a single click.<br>
 ✔️ [IntraFriends42_ExtensionChrome](https://github.com/raanki/IntraFriends42_ExtensionChrome) : IntraFriend extension that allows you to add your friends on Intra 42 and see if they are online.<br>
+✔️ [PulseCanvas](https://github.com/raanki/PulseCanvas#readme) : Interactive art project with colorful bouncing circles created using HTML5 canvas. This project was designed as a learning experience, showcasing dynamic visual effects and mouse interactivity. <br>
 
 <p align="left">
 </p>
