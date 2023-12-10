@@ -48,7 +48,7 @@ In this repository, you can find all the projects that I have completed at 42 Sc
 # EFREI School Projects
 
 🚧 (directory coming soon)
-https://avatars.githubusercontent.com/u/143937?s=200&v=4
+
 <p align="left">
 </p>
 
