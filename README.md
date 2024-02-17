@@ -29,6 +29,7 @@ In this repository, you can find all the projects that I have completed at 42 Sc
 ✔️ [Push_Swap](https://github.com/raanki/push_swap#readme): Sorting a stack of integers using a limited set of operations.<br>
 ✔️ *Philosophers* (directory coming soon): Solving the dining philosophers problem using threads and mutexes.<br>
 ✔️ [Minishell](https://github.com/raanki/minishell42): Building a basic shell with support for command execution, signal handling, and various built-in commands.<br>
+✔️ [NetPractice](https://github.com/raanki/netpratice): Configuration réseau TCP/IP sur 10 niveaux. 🌐 Apprentissage en profondeur de l'adressage IP. 🖥️🚀.<br>
 🚧 *Project C++ - Part 1* (directory coming soon): The C++ modules 00 to 04 at 42 are designed to teach fundamental programming concepts and techniques using C++, covering topics such as basic syntax, memory management, object-oriented programming, STL containers and algorithms, and more.<br>
 
 # Personal Projet 
@@ -44,6 +45,8 @@ In this repository, you can find all the projects that I have completed at 42 Sc
 ✔️ [ColorPicker_ExtensionChrome](https://github.com/raanki/ColorPicker_ExtensionChrome#readme) : A simple color picker extension. Easily pick any color on the screen, view a history of picked colors, and copy or clear them with a single click.<br>
 ✔️ [IntraFriends42_ExtensionChrome](https://github.com/raanki/IntraFriends42_ExtensionChrome) : IntraFriend extension that allows you to add your friends on Intra 42 and see if they are online.<br>
 ✔️ [PulseCanvas](https://github.com/raanki/PulseCanvas#readme) : Interactive art project with colorful bouncing circles created using HTML5 canvas. This project was designed as a learning experience, showcasing dynamic visual effects and mouse interactivity. <br>
+✔️ [Notif 42](https://github.com/raanki/Notif-Correction-42) : Fix d'un outil 42 - A Python script that will send you a desktop notification when a correction slot is found. <br>
+
 
 # EFREI School Projects
 
