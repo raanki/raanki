@@ -1,8 +1,8 @@
 <h1 align="center">Hiiii, I'm Rayan</h1>
 
-- 🔭 I’m currently working on the subject of 42 [Piscine - C++](https://github.com/Binary-Hackers/42_Subjects/tree/master/01_Piscines/CPP)
+- 🔭 I’m currently working on the subject of 42 [Cub3d](https://github.com/maxime-42/cub3d/blob/master/fr.subject.pdf)
 
-- 🌱 I’m currently learning **c++ at 42. But I am learning at the same time: HTML, CSS, Python, SQL, Java and Javascript at EFREI** 
+- 🤖 I'm also currently working as a php/symfony back-end developer at eDreamsFactory.
 
 - 📫 Contact me at : **ranki@student.42.fr**
 
