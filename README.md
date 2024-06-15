@@ -16,6 +16,9 @@
  <a href="https://leetcode.com/raanki/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
 </p>
 
+<h3>My LeetCode Profile </h3>
+![LeetCode Stats](https://leetcard.jacoblin.cool/raanki?theme=nord&font=Lora&ext=activity)
+
 # 42 School Projects
 
 In this repository, you can find all the projects that I have completed at 42 School and my personal project. Each project is presented with a brief description, a screenshot, and a link to my Git repository where you can find the source code and documentation.
