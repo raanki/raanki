@@ -9,15 +9,16 @@
 
 - 📫 Contact me at : **ranki@student.42.fr**
 
+# My LeetCode Profile 
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/raanki?theme=nord&font=Lora&ext=activity)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rayan anki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayan anki" height="30" width="40" /></a>
 <a href="https://discord.gg/ranki#2186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ranki#2186" height="30" width="40" /></a>
  <a href="https://leetcode.com/raanki/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
 </p>
-
-<h3>My LeetCode Profile </h3>
-![LeetCode Stats](https://leetcard.jacoblin.cool/raanki?theme=nord&font=Lora&ext=activity)
 
 # 42 School Projects
 
