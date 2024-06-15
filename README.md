@@ -11,7 +11,8 @@
 
 # My LeetCode Profile 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/raanki?theme=nord&font=Lora&ext=activity)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/raanki?theme=nord&font=Lora&ext=activity)](https://leetcode.com/u/raanki/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
