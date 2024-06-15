@@ -60,7 +60,9 @@ In this repository, you can find all the projects that I have completed at 42 Sc
 
 ✔️ [GPS - Paris métro ](https://github.com/raanki/GPS---Java/blob/master/README.md) : 📚🚇🖥️ Ce projet explore la théorie des graphes pour optimiser les trajets du métro parisien, combinant Java et JavaFX pour une navigation fluide et intuitive.<br>
 ✔️ [CRUD - ERP - Java ] (Git en construction) : Création d'un ERP complet en JavaFX. <br>
+✔️ [CRUD - ERP - PHP ] (Git en construction) : Création d'un ERP complet en PHP. <br>
 ✔️ [Monopoly - Réseau ] (Git en construction) : Création d'un monopoly en réseau, avec interface graphique. <br>
+✔️ [Site Musée - Ruby on Rails ] (Git en construction) : Présentation d'un musée avec un système de blog intégrer. <br>
 
 
 <p align="left">
