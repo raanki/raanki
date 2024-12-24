@@ -54,6 +54,7 @@ In this repository, you can find all the projects that I have completed at 42 Sc
 ✔️ [IntraFriends42_ExtensionChrome](https://github.com/raanki/IntraFriends42_ExtensionChrome) : IntraFriend extension that allows you to add your friends on Intra 42 and see if they are online.<br>
 ✔️ [PulseCanvas](https://github.com/raanki/PulseCanvas#readme) : Interactive art project with colorful bouncing circles created using HTML5 canvas. This project was designed as a learning experience, showcasing dynamic visual effects and mouse interactivity. <br>
 ✔️ [Notif 42](https://github.com/raanki/Notif-Correction-42) : Fix d'un outil 42 - A Python script that will send you a desktop notification when a correction slot is found. <br>
+✔️ [Linkedin Extension](https://github.com/raanki/linkedinExtension) : Extension Chrome : Filtre les offres d'emploi en masquant les entreprises sélectionnées ou des mots clés <br>
 
 
 # EFREI School Projects
